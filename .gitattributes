@@ -1,0 +1,9 @@
+# Normalize line endings
+* text=auto
+
+# Unity YAML files
+*.cs text diff=csharp
+*.shader text
+*.cginc text
+*.hlsl text
+*.compute text
